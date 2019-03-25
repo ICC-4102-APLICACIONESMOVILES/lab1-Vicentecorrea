@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="loading_text">Cargando...</string>
+    <string name="login_text">Iniciar Sesión</string>
+    <string name="hint_mail">Ingrese su mail</string>
+    <string name="hint_password">Ingrese su contraseña</string>
+    <string name="button_text">Aceptar</string>
+</resources>
